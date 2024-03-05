@@ -1,0 +1,1 @@
+Minha ideia de computação visual é a disciplina que estuda como que uma sistema cria e transforma uma imagem, seja ela 3D ou não.Como uma máquina gera algo que é possível enxergar.
