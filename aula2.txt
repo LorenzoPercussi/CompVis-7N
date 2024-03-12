@@ -1,0 +1,26 @@
+**Computação Gráfica: Animação por Computador em Filmes**
+
+A computação gráfica revolucionou a indústria cinematográfica, permitindo a criação de animações por computador que antes eram inimagináveis. Desde os primórdios do cinema digital, a computação gráfica tem sido usada para criar mundos fictícios, personagens fantásticos e efeitos visuais impressionantes.
+
+Na produção de filmes de animação por computador, os artistas modelam personagens, ambientes e objetos em software de modelagem 3D. Esses modelos são então texturizados, animados e iluminados para criar cenas realistas ou estilizadas, dependendo do estilo visual desejado. Durante o processo de animação, cada movimento dos personagens é cuidadosamente planejado e executado, levando em consideração a física, expressões faciais e movimentos corporais.
+
+O resultado final é uma obra cinematográfica que cativa e encanta o público, levando-os a mundos imaginários ou contando histórias emocionantes. A computação gráfica permitiu que cineastas explorassem novas narrativas e visões artísticas, expandindo os limites da criatividade e proporcionando experiências visuais inesquecíveis para espectadores de todas as idades.
+
+**Processamento de Imagens: Diagnóstico Médico Auxiliado por Computador**
+
+O processamento de imagens desempenha um papel crucial no campo médico, especialmente no diagnóstico de doenças e condições médicas. Uma aplicação notável é o diagnóstico médico auxiliado por computador, onde algoritmos de processamento de imagens são utilizados para analisar imagens médicas, como radiografias, tomografias computadorizadas e ressonâncias magnéticas.
+
+No processo de diagnóstico médico assistido por computador, as imagens médicas são digitalizadas e enviadas para um sistema de processamento de imagens. Aqui, algoritmos sofisticados são aplicados para detectar padrões, anomalias ou características específicas associadas a uma determinada condição médica. Por exemplo, em um exame de tomografia computadorizada do pulmão, algoritmos podem ser projetados para identificar nódulos suspeitos que possam indicar câncer.
+
+Uma vez que as análises são concluídas, os resultados são apresentados aos médicos para revisão e confirmação. Esses sistemas não substituem a expertise médica, mas funcionam como ferramentas auxiliares, fornecendo insights adicionais e ajudando os médicos a tomar decisões mais informadas e precisas. O diagnóstico médico assistido por computador pode acelerar o processo de diagnóstico, aumentar a taxa de detecção precoce de doenças e melhorar os resultados para os pacientes.
+
+**Visão Computacional: Reconhecimento Facial para Segurança**
+
+A visão computacional é uma área da computação visual que se concentra em entender e automatizar o processo de interpretação de informações visuais. Uma aplicação importante é o reconhecimento facial, amplamente utilizado para fins de segurança em locais públicos, controle de acesso e identificação de criminosos.
+
+O reconhecimento facial utiliza algoritmos de visão computacional para identificar e verificar a identidade de uma pessoa com base em características faciais únicas, como a posição dos olhos, nariz e boca. Esses algoritmos são treinados em grandes conjuntos de dados contendo imagens faciais de diferentes indivíduos, aprendendo a reconhecer padrões e características distintivas.
+
+A aplicação do reconhecimento facial para segurança é amplamente utilizada em aeroportos, estações de trem, prédios governamentais e até mesmo em dispositivos pessoais, como smartphones. Embora levante questões de privacidade e ética, o reconhecimento facial demonstrou ser uma ferramenta eficaz para identificação e autenticação, contribuindo para a segurança pública e a prevenção de crimes.
+
+**Explicação da Escolha:**
+Escolhi estas aplicações porque cada uma delas demonstra de forma clara e impactante o potencial da computação visual em diferentes domínios. A computação gráfica tem um papel significativo na indústria do entretenimento, possibilitando a criação de mundos imaginários e personagens incríveis. O processamento de imagens desempenha um papel crucial na medicina, ajudando os profissionais de saúde a diagnosticar doenças de forma mais precisa e precoce. E a visão computacional tem aplicações práticas, como o reconhecimento facial para segurança, que podem melhorar a segurança pública e simplificar processos de identificação. Essas aplicações destacam a versatilidade e o impacto positivo da computação visual em nossa sociedade.
